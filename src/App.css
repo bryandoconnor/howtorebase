@@ -4,6 +4,7 @@ a {
 }
 
 a:hover {
+  background-color: #fff;
   color: #ff9406;
   text-decoration: none;
 }
